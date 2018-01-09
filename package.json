@@ -5,10 +5,10 @@
   "dependencies": {
     "bootstrap": "3",
     "faker": "4.1.0",
-    "react": "^16.0.0",
-    "react-bootstrap-table": "4.0.6",
-    "react-dom": "^16.0.0",
-    "react-scripts": "1.0.14"
+    "react": "16.2.0",
+    "react-bootstrap-table": "4.3.1",
+    "react-dom": "16.2.0",
+    "react-scripts": "1.0.17"
   },
   "scripts": {
     "start": "react-scripts start",
